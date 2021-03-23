@@ -1,0 +1,50 @@
+ALABAMA - 0%
+Alaska - 0%
+ARIZONA - 11/15 73%
+ARKANSAS - 56/75 75%
+CALIFORNIA - 57/58 98%
+COLORADO - 45/64 70%
+Connecticut - 0%
+Delaware - 1/3 33%
+Florida - 65/67 97%
+Georgia - 51/159 32%
+Hawaii - 1/5 20%
+Idaho - 40/44 91%
+Illinios - 79/102 78%
+Indiana - 28/92 30%
+Iowa - 84/99 85%
+Kansas - 68/105 65%
+Kentucky 124/120 103%
+Louisiana - 51/64 80%
+Maine - 16/16 100%
+Maryland - 26/24 108%
+Massachusetts - 0%
+Michigan - 75/83 90%
+Minnesota - 84/87 97%
+Mississippi - 17/82 21%
+Missouri - 59/114 52%
+Montana - 39/56 70%
+Nebraska - 59/93 63%
+Nevada - 12/16 75%
+New Hampshire - 6/10 60%
+New Jersey - 21/21 100%
+New Mexico - 23/33 70%
+New York - 49/62 79%
+North Carolina - 60/100 60%
+North Dakota - 53/53 100%
+Ohio - 64/88 73%
+Oklahoma - 73/77 95%
+Oregon - 27/36 75%
+Pennsylvania - 10/67 15%
+Rhode Island - 0%
+South Carolina - 39/46 85%
+South Dakota - 54/66 82%
+Tennessee - 91/95 96%
+Texas - 203/254 80%
+Utah - 22/29 76%
+Vermont - 12/14 86%
+Virginia - 92/133 69%
+Washington - 37/39 95%
+West Virginia - 31/55 56%
+Wisconsin - 66/72 92%
+Wyoming - 21/23 91%
